@@ -24,8 +24,8 @@ This project is an end-to-end **Sales Data Analysis and Dashboard project** usin
 - **DAX** – Calculated measures and analysis
 
 ## 🔄 Project Workflow
-
 ```text
+
 Raw Sales Data
       ↓
 Excel – Data Preparation & Analysis
@@ -37,8 +37,9 @@ Power Query – Data Transformation
 Power BI – Dashboard & Visualization
       ↓
 Business Insights
-
+```
 ## 🔄 Project Structure
+```text
 Sales-Dashboard/
 │
 ├── Excel/
@@ -54,7 +55,7 @@ Sales-Dashboard/
 │   └── dashboard.png
 │
 └── README.md
-
+```
 
 
 ## Dashboard Preview
